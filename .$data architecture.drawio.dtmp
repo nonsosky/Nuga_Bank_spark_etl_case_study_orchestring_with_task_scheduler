@@ -1,0 +1,53 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/25.0.2 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="25.0.2">
+  <diagram name="Page-1" id="qQH99uX_PA_wdh3DgZFV">
+    <mxGraphModel dx="839" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lkyugf2C9GAOia4G17tV-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lkyugf2C9GAOia4G17tV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="445" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lkyugf2C9GAOia4G17tV-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="166" y="380" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="lkyugf2C9GAOia4G17tV-2" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.file" vertex="1" parent="1">
+          <mxGeometry x="190" y="419" width="47" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lkyugf2C9GAOia4G17tV-3" value="Data Source" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="174" y="382" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lkyugf2C9GAOia4G17tV-4" value="csv file" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="183.5" y="480" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lkyugf2C9GAOia4G17tV-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="349" width="330" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="lkyugf2C9GAOia4G17tV-6" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_PostgreSQL_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="862.13" y="384" width="81.75" height="109" as="geometry" />
+        </mxCell>
+        <mxCell id="lkyugf2C9GAOia4G17tV-7" value="Postgres Database" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="821" y="490" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lkyugf2C9GAOia4G17tV-8" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" vertex="1" parent="1">
+          <mxGeometry x="527" y="360" width="110" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="lkyugf2C9GAOia4G17tV-9" value="Scheduled&#xa;Tasks" style="sketch=0;dashed=0;connectable=0;html=1;fillColor=#757575;strokeColor=none;shape=mxgraph.gcp2.scheduled_tasks;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontSize=12;" vertex="1" parent="lkyugf2C9GAOia4G17tV-8">
+          <mxGeometry y="0.5" width="32" height="32" relative="1" as="geometry">
+            <mxPoint x="5" y="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lkyugf2C9GAOia4G17tV-11" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://miro.medium.com/v2/resize:fit:800/1*MwZZjt-IlJU0TFaZxfBz1Q.jpeg;clipPath=inset(13.31% 8.33% 28.11% 11.33%);" vertex="1" parent="1">
+          <mxGeometry x="480" y="430" width="219.09" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="lkyugf2C9GAOia4G17tV-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.022;entryY=0.543;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lkyugf2C9GAOia4G17tV-5" target="lkyugf2C9GAOia4G17tV-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lkyugf2C9GAOia4G17tV-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="320" width="120" height="130" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
