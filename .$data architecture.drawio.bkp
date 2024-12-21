@@ -44,9 +44,6 @@
         <mxCell id="lkyugf2C9GAOia4G17tV-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.022;entryY=0.543;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lkyugf2C9GAOia4G17tV-5" target="lkyugf2C9GAOia4G17tV-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lkyugf2C9GAOia4G17tV-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="320" width="120" height="130" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
